@@ -6,15 +6,15 @@
 
 * envs — окружения
 
-  ** gym-foo — пример окружения для импорта в gym (в частности, для double)
+  * gym-foo — пример окружения для импорта в gym (в частности, для double)
   
   Окружения для различных частей задания
   
-  ** pt2_env_double.py — с double
+  * pt2_env_double.py — с double
   
-  ** pt3_env_count_cards.py — с подсчетом карт
+  * pt3_env_count_cards.py — с подсчетом карт
   
-  ** pt4_split.py — со split-ом
+  * pt4_split.py — со split-ом
   
 * draws — визуализация наград за игры
 
